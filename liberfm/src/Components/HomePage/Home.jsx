@@ -1,8 +1,9 @@
 import React from 'react';
-import "../Styles/Home.css"
-import {Box, Text} from "@chakra-ui/react"
+import "../Styles/HoverContainer.css"
+import {Box, Text, Image} from "@chakra-ui/react"
 import BootCarousel from './BootCarousel';
 import Carousel1000 from "./Carousel1000";
+import HoverContainer from './HoverContainer';
 
 const Home = () => {
   return (
@@ -19,9 +20,13 @@ const Home = () => {
         <Text className='p2'>Curbside pickup available in most stores!</Text>
         <hr style={{width:"90%",margin:"auto"}}/>
         <Carousel1000 />
-
-
-
+        <Box className='display' style={{margin:"50px 0"}}>
+          <Image src="https://dispatch.barnesandnoble.com/content/dam/ccr/homepage/daily/2023/02/21/25819_BB_B_30Off-Pre-Orders_02-21.jpg" w={"90%"}/>
+        </Box>
+        <HoverContainer />
+        <Box className='display' style={{margin:"50px 0"}}>
+          <Image src="https://dispatch.barnesandnoble.com/content/dam/ccr/homepage/daily/2022/11/01/24968_BB_C_BestBooks_1101b.jpg" w={"90%"}/>
+        </Box>
 
     </div>
   )
