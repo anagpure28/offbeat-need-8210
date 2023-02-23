@@ -9,6 +9,7 @@ import CarouselBelieve from './CarouselBelieve';
 import CarouselWorld from './CarouselWorld';
 import CarouselPaper from './CarouselPaper';
 import HoverContainer2 from './HoverContainer2';
+import Footer from './Footer';
 
 const Home = () => {
   return (
@@ -41,7 +42,7 @@ const Home = () => {
           <Image src="https://dispatch.barnesandnoble.com/content/dam/ccr/homepage/daily/2023/02/21/26212_BB_D_Moomin_02-22.jpg" w={"90%"}/>
         </Box>
         <Text style={{fontSize:"10px"}}>*See offer page for details</Text>
-        
+        <Footer />
 
     </div>
   )
