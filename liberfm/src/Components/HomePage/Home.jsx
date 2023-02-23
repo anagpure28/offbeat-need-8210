@@ -4,6 +4,7 @@ import {Box, Text, Image} from "@chakra-ui/react"
 import BootCarousel from './BootCarousel';
 import Carousel1000 from "./Carousel1000";
 import HoverContainer from './HoverContainer';
+import Carousel100 from './Carousal100';
 
 const Home = () => {
   return (
@@ -27,7 +28,11 @@ const Home = () => {
         <Box className='display' style={{margin:"50px 0"}}>
           <Image src="https://dispatch.barnesandnoble.com/content/dam/ccr/homepage/daily/2022/11/01/24968_BB_C_BestBooks_1101b.jpg" w={"90%"}/>
         </Box>
+        <Carousel100 />
 
+
+
+        
     </div>
   )
 }
