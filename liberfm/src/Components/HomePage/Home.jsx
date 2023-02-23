@@ -1,10 +1,14 @@
 import React from 'react';
-import "../Styles/HoverContainer.css"
+import "../Styles/Home.css"
 import {Box, Text, Image} from "@chakra-ui/react"
 import BootCarousel from './BootCarousel';
 import Carousel1000 from "./Carousel1000";
 import HoverContainer from './HoverContainer';
 import Carousel100 from './Carousal100';
+import CarouselBelieve from './CarouselBelieve';
+import CarouselWorld from './CarouselWorld';
+import CarouselPaper from './CarouselPaper';
+import HoverContainer2 from './HoverContainer2';
 
 const Home = () => {
   return (
@@ -29,10 +33,16 @@ const Home = () => {
           <Image src="https://dispatch.barnesandnoble.com/content/dam/ccr/homepage/daily/2022/11/01/24968_BB_C_BestBooks_1101b.jpg" w={"90%"}/>
         </Box>
         <Carousel100 />
-
-
-
+        <CarouselBelieve />
+        <CarouselWorld />
+        <CarouselPaper />
+        <HoverContainer2 />
+        <Box className='display' style={{margin:"10px 0"}}>
+          <Image src="https://dispatch.barnesandnoble.com/content/dam/ccr/homepage/daily/2023/02/21/26212_BB_D_Moomin_02-22.jpg" w={"90%"}/>
+        </Box>
+        <Text style={{fontSize:"10px"}}>*See offer page for details</Text>
         
+
     </div>
   )
 }

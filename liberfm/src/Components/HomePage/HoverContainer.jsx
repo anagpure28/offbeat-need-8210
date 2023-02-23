@@ -1,5 +1,5 @@
 import React from "react";
-import "../Styles/Home.css"
+import "../Styles/HoverContainer.css"
 import { Text, Grid, GridItem, Image } from "@chakra-ui/react";
 import { Link } from "react-router-dom";
 
