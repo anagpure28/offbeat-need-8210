@@ -3,7 +3,7 @@ import FirstCarousel from './Carousel';
 import "./Product.css"
 import GridApp from './GridCards';
 
-const Products = () => {
+const Product = () => {
   return (
     <div style={{marginTop:"10px", margin:"auto" ,width:"90%"}}>
       <h2 style={{fontFamily: "Poynter,Georgia,serif"}}>New Book Releases</h2>
@@ -56,4 +56,4 @@ const Products = () => {
   )
 }
 
-export default Products
+export default Product
