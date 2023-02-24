@@ -1,0 +1,37 @@
+.display{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.justify{
+    display: flex;
+    justify-content: space-around;
+}
+.flex{
+    display: flex;
+}
+.flex-div1{
+    width:18%; 
+    border-right: 1px solid grey;
+}
+.flex-div2{
+    width:78%;
+    margin: auto;
+}
+.p{
+    font-size:13px;
+    margin-top:-8px;
+    text-decoration:underline;
+    cursor:pointer; 
+    color:green;
+}
+.div{
+    font-size:20px;
+    font-weight:500;
+    margin-top:50px
+}
+.h3{
+    font-family: Poynter,Georgia,serif;
+    font-weight: 600;
+    font-style: normal;
+}
