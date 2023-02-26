@@ -73,7 +73,7 @@ const FirstCarousel = () => {
           <div>
             <div key={item.id} style={{margin:"auto", marginTop:"15%", width:"160px"}}>
             <img src={item.image} alt=""/>
-            <a href="#"
+            <a href={"/products/"+item.id}
               style={{ 
                 color: "black", 
                 fontSize: "12px", 
