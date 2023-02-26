@@ -397,7 +397,7 @@ export const favorites_books_data = [
         rating: "5",
         price:10,
         type: "horror",
-        description: "Horror Comedy"
+        description: "A deliciously dark, elegant, utterly compulsive read—with a twist that blew my mind. I loved this even more than I loved The Silent Patient and that's saying something! From the #1 New York Times bestselling author of The Silent Patient comes a spellbinding tale of psychological suspense, weaving together Greek mythology, murder, and obsession, that further cements “Michaelides as a major player in the field” (Publishers Weekly)."
       },
       {
         id: 2,
@@ -409,7 +409,7 @@ export const favorites_books_data = [
         rating: "4",
         price:20,
         type: "horror",
-        description: "Horror Comedy"
+        description: "A deliciously dark, elegant, utterly compulsive read—with a twist that blew my mind. I loved this even more than I loved The Silent Patient and that's saying something! From the #1 New York Times bestselling author of The Silent Patient comes a spellbinding tale of psychological suspense, weaving together Greek mythology, murder, and obsession, that further cements “Michaelides as a major player in the field” (Publishers Weekly)."
       },
       {
         id: 3,
@@ -421,7 +421,7 @@ export const favorites_books_data = [
         rating: "3",
         price:25,
         type: "horror",
-        description: "Horror Comedy"
+        description: "A deliciously dark, elegant, utterly compulsive read—with a twist that blew my mind. I loved this even more than I loved The Silent Patient and that's saying something! From the #1 New York Times bestselling author of The Silent Patient comes a spellbinding tale of psychological suspense, weaving together Greek mythology, murder, and obsession, that further cements “Michaelides as a major player in the field” (Publishers Weekly)."
       },
       {
         id: 4,
@@ -433,7 +433,7 @@ export const favorites_books_data = [
         rating: "4",
         price:30,
         type: "horror",
-        description: "Horror Comedy"
+        description: "A deliciously dark, elegant, utterly compulsive read—with a twist that blew my mind. I loved this even more than I loved The Silent Patient and that's saying something! From the #1 New York Times bestselling author of The Silent Patient comes a spellbinding tale of psychological suspense, weaving together Greek mythology, murder, and obsession, that further cements “Michaelides as a major player in the field” (Publishers Weekly)."
       },
       {
         id: 5,
@@ -445,7 +445,7 @@ export const favorites_books_data = [
         rating: "4",
         price:30,
         type: "horror",
-        description: "Horror Comedy"
+        description: "A deliciously dark, elegant, utterly compulsive read—with a twist that blew my mind. I loved this even more than I loved The Silent Patient and that's saying something! From the #1 New York Times bestselling author of The Silent Patient comes a spellbinding tale of psychological suspense, weaving together Greek mythology, murder, and obsession, that further cements “Michaelides as a major player in the field” (Publishers Weekly)."
       },
       {
         id: 6,
@@ -457,7 +457,7 @@ export const favorites_books_data = [
         rating: "4",
         price:10,
         type: "horror",
-        description: "Horror Comedy"
+        description: "A deliciously dark, elegant, utterly compulsive read—with a twist that blew my mind. I loved this even more than I loved The Silent Patient and that's saying something! From the #1 New York Times bestselling author of The Silent Patient comes a spellbinding tale of psychological suspense, weaving together Greek mythology, murder, and obsession, that further cements “Michaelides as a major player in the field” (Publishers Weekly)."
       },
       {
         id: 7,
@@ -469,7 +469,7 @@ export const favorites_books_data = [
         rating: "5",
         price:20,
         type: "horror",
-        description: "Horror Comedy"
+        description: "A deliciously dark, elegant, utterly compulsive read—with a twist that blew my mind. I loved this even more than I loved The Silent Patient and that's saying something! From the #1 New York Times bestselling author of The Silent Patient comes a spellbinding tale of psychological suspense, weaving together Greek mythology, murder, and obsession, that further cements “Michaelides as a major player in the field” (Publishers Weekly)."
       },
       {
         id: 8,
@@ -481,7 +481,7 @@ export const favorites_books_data = [
         rating: "5",
         price:10,
         type: "horror",
-        description: "Horror Comedy"
+        description: "A deliciously dark, elegant, utterly compulsive read—with a twist that blew my mind. I loved this even more than I loved The Silent Patient and that's saying something! From the #1 New York Times bestselling author of The Silent Patient comes a spellbinding tale of psychological suspense, weaving together Greek mythology, murder, and obsession, that further cements “Michaelides as a major player in the field” (Publishers Weekly)."
       },
       {
         id: 9,
@@ -493,7 +493,7 @@ export const favorites_books_data = [
         rating: "4",
         price:12,
         type: "horror",
-        description: "Horror Comedy"
+        description: "A deliciously dark, elegant, utterly compulsive read—with a twist that blew my mind. I loved this even more than I loved The Silent Patient and that's saying something! From the #1 New York Times bestselling author of The Silent Patient comes a spellbinding tale of psychological suspense, weaving together Greek mythology, murder, and obsession, that further cements “Michaelides as a major player in the field” (Publishers Weekly)."
       },
       {
         id: 10,
@@ -505,7 +505,7 @@ export const favorites_books_data = [
         rating: "5",
         price:16,
         type: "horror",
-        description: "Horror Comedy"
+        description: "A deliciously dark, elegant, utterly compulsive read—with a twist that blew my mind. I loved this even more than I loved The Silent Patient and that's saying something! From the #1 New York Times bestselling author of The Silent Patient comes a spellbinding tale of psychological suspense, weaving together Greek mythology, murder, and obsession, that further cements “Michaelides as a major player in the field” (Publishers Weekly)."
       },
       {
         id: 11,
@@ -517,7 +517,7 @@ export const favorites_books_data = [
         rating: "3",
         price: 25,
         type: "horror",
-        description: "Horror Comedy"
+        description: "A deliciously dark, elegant, utterly compulsive read—with a twist that blew my mind. I loved this even more than I loved The Silent Patient and that's saying something! From the #1 New York Times bestselling author of The Silent Patient comes a spellbinding tale of psychological suspense, weaving together Greek mythology, murder, and obsession, that further cements “Michaelides as a major player in the field” (Publishers Weekly)."
       },
       {
         id: 12,
@@ -529,7 +529,7 @@ export const favorites_books_data = [
         rating: "5",
         price:22,
         type: "horror",
-        description: "Horror Comedy"
+        description: "A deliciously dark, elegant, utterly compulsive read—with a twist that blew my mind. I loved this even more than I loved The Silent Patient and that's saying something! From the #1 New York Times bestselling author of The Silent Patient comes a spellbinding tale of psychological suspense, weaving together Greek mythology, murder, and obsession, that further cements “Michaelides as a major player in the field” (Publishers Weekly)."
       },
       {
         id: 13,
@@ -541,7 +541,7 @@ export const favorites_books_data = [
         rating: "3",
         price:10,
         type: "horror",
-        description: "Horror Comedy"
+        description: "A deliciously dark, elegant, utterly compulsive read—with a twist that blew my mind. I loved this even more than I loved The Silent Patient and that's saying something! From the #1 New York Times bestselling author of The Silent Patient comes a spellbinding tale of psychological suspense, weaving together Greek mythology, murder, and obsession, that further cements “Michaelides as a major player in the field” (Publishers Weekly)."
       },
       {
         id: 14,
@@ -553,7 +553,7 @@ export const favorites_books_data = [
         rating: "3",
         price:18,
         type: "horror",
-        description: "Horror Comedy"
+        description: "A deliciously dark, elegant, utterly compulsive read—with a twist that blew my mind. I loved this even more than I loved The Silent Patient and that's saying something! From the #1 New York Times bestselling author of The Silent Patient comes a spellbinding tale of psychological suspense, weaving together Greek mythology, murder, and obsession, that further cements “Michaelides as a major player in the field” (Publishers Weekly)."
       },
       {
         id: 15,
@@ -565,7 +565,7 @@ export const favorites_books_data = [
         rating: "3",
         price:20,
         type: "horror",
-        description: "Horror Comedy"
+        description: "A deliciously dark, elegant, utterly compulsive read—with a twist that blew my mind. I loved this even more than I loved The Silent Patient and that's saying something! From the #1 New York Times bestselling author of The Silent Patient comes a spellbinding tale of psychological suspense, weaving together Greek mythology, murder, and obsession, that further cements “Michaelides as a major player in the field” (Publishers Weekly)."
       },
       {
         id: 16,
@@ -577,7 +577,7 @@ export const favorites_books_data = [
         rating: "5",
         price:16,
         type: "horror",
-        description: "Horror Comedy"
+        description: "A deliciously dark, elegant, utterly compulsive read—with a twist that blew my mind. I loved this even more than I loved The Silent Patient and that's saying something! From the #1 New York Times bestselling author of The Silent Patient comes a spellbinding tale of psychological suspense, weaving together Greek mythology, murder, and obsession, that further cements “Michaelides as a major player in the field” (Publishers Weekly)."
       },
       {
         id: 17,
@@ -589,7 +589,7 @@ export const favorites_books_data = [
         rating: "5",
         price:20,
         type: "horror",
-        description: "Horror Comedy"
+        description: "A deliciously dark, elegant, utterly compulsive read—with a twist that blew my mind. I loved this even more than I loved The Silent Patient and that's saying something! From the #1 New York Times bestselling author of The Silent Patient comes a spellbinding tale of psychological suspense, weaving together Greek mythology, murder, and obsession, that further cements “Michaelides as a major player in the field” (Publishers Weekly)."
       },
       {
         id: 18,
@@ -601,7 +601,7 @@ export const favorites_books_data = [
         rating: "5",
         price:22,
         type: "horror",
-        description: "Horror Comedy"
+        description: "A deliciously dark, elegant, utterly compulsive read—with a twist that blew my mind. I loved this even more than I loved The Silent Patient and that's saying something! From the #1 New York Times bestselling author of The Silent Patient comes a spellbinding tale of psychological suspense, weaving together Greek mythology, murder, and obsession, that further cements “Michaelides as a major player in the field” (Publishers Weekly)."
       },
       {
         id: 21,
@@ -613,7 +613,7 @@ export const favorites_books_data = [
         rating: "5",
         price:20,
         type: "horror",
-        description: "Horror Comedy"
+        description: "A deliciously dark, elegant, utterly compulsive read—with a twist that blew my mind. I loved this even more than I loved The Silent Patient and that's saying something! From the #1 New York Times bestselling author of The Silent Patient comes a spellbinding tale of psychological suspense, weaving together Greek mythology, murder, and obsession, that further cements “Michaelides as a major player in the field” (Publishers Weekly)."
       },
       {
         id: 22,
@@ -625,7 +625,7 @@ export const favorites_books_data = [
         rating: "4",
         price:28,
         type: "horror",
-        description: "Horror Comedy"
+        description: "A deliciously dark, elegant, utterly compulsive read—with a twist that blew my mind. I loved this even more than I loved The Silent Patient and that's saying something! From the #1 New York Times bestselling author of The Silent Patient comes a spellbinding tale of psychological suspense, weaving together Greek mythology, murder, and obsession, that further cements “Michaelides as a major player in the field” (Publishers Weekly)."
       },
       {
         id: 23,
@@ -637,7 +637,7 @@ export const favorites_books_data = [
         rating: "3",
         price:26,
         type: "horror",
-        description: "Horror Comedy"
+        description: "A deliciously dark, elegant, utterly compulsive read—with a twist that blew my mind. I loved this even more than I loved The Silent Patient and that's saying something! From the #1 New York Times bestselling author of The Silent Patient comes a spellbinding tale of psychological suspense, weaving together Greek mythology, murder, and obsession, that further cements “Michaelides as a major player in the field” (Publishers Weekly)."
       },
       {
         id: 24,
@@ -649,7 +649,7 @@ export const favorites_books_data = [
         rating: "4",
         price:30,
         type: "horror",
-        description: "Horror Comedy"
+        description: "A deliciously dark, elegant, utterly compulsive read—with a twist that blew my mind. I loved this even more than I loved The Silent Patient and that's saying something! From the #1 New York Times bestselling author of The Silent Patient comes a spellbinding tale of psychological suspense, weaving together Greek mythology, murder, and obsession, that further cements “Michaelides as a major player in the field” (Publishers Weekly)."
       },
       {
         id: 25,
@@ -661,7 +661,7 @@ export const favorites_books_data = [
         rating: "2",
         price:23,
         type: "horror",
-        description: "Horror Comedy"
+        description: "A deliciously dark, elegant, utterly compulsive read—with a twist that blew my mind. I loved this even more than I loved The Silent Patient and that's saying something! From the #1 New York Times bestselling author of The Silent Patient comes a spellbinding tale of psychological suspense, weaving together Greek mythology, murder, and obsession, that further cements “Michaelides as a major player in the field” (Publishers Weekly)."
       },
       {
         id: 26,
@@ -673,7 +673,7 @@ export const favorites_books_data = [
         rating: "2",
         price:20,
         type: "horror",
-        description: "Horror Comedy"
+        description: "A deliciously dark, elegant, utterly compulsive read—with a twist that blew my mind. I loved this even more than I loved The Silent Patient and that's saying something! From the #1 New York Times bestselling author of The Silent Patient comes a spellbinding tale of psychological suspense, weaving together Greek mythology, murder, and obsession, that further cements “Michaelides as a major player in the field” (Publishers Weekly)."
       },
       {
         id: 27,
@@ -685,7 +685,7 @@ export const favorites_books_data = [
         rating: "1",
         price:10,
         type: "horror",
-        description: "Horror Comedy"
+        description: "A deliciously dark, elegant, utterly compulsive read—with a twist that blew my mind. I loved this even more than I loved The Silent Patient and that's saying something! From the #1 New York Times bestselling author of The Silent Patient comes a spellbinding tale of psychological suspense, weaving together Greek mythology, murder, and obsession, that further cements “Michaelides as a major player in the field” (Publishers Weekly)."
       },
       {
         id: 28,
@@ -697,7 +697,7 @@ export const favorites_books_data = [
         rating: "1",
         price:30,
         type: "horror",
-        description: "Horror Comedy"
+        description: "A deliciously dark, elegant, utterly compulsive read—with a twist that blew my mind. I loved this even more than I loved The Silent Patient and that's saying something! From the #1 New York Times bestselling author of The Silent Patient comes a spellbinding tale of psychological suspense, weaving together Greek mythology, murder, and obsession, that further cements “Michaelides as a major player in the field” (Publishers Weekly)."
       },
       {
         id: 29,
@@ -709,7 +709,7 @@ export const favorites_books_data = [
         rating: "2",
         price:35,
         type: "horror",
-        description: "Horror Comedy"
+        description: "A deliciously dark, elegant, utterly compulsive read—with a twist that blew my mind. I loved this even more than I loved The Silent Patient and that's saying something! From the #1 New York Times bestselling author of The Silent Patient comes a spellbinding tale of psychological suspense, weaving together Greek mythology, murder, and obsession, that further cements “Michaelides as a major player in the field” (Publishers Weekly)."
       },
       {
         id: 30,
@@ -721,7 +721,7 @@ export const favorites_books_data = [
         rating: "2",
         price:38,
         type: "horror",
-        description: "Horror Comedy"
+        description: "A deliciously dark, elegant, utterly compulsive read—with a twist that blew my mind. I loved this even more than I loved The Silent Patient and that's saying something! From the #1 New York Times bestselling author of The Silent Patient comes a spellbinding tale of psychological suspense, weaving together Greek mythology, murder, and obsession, that further cements “Michaelides as a major player in the field” (Publishers Weekly)."
       },
       {
         id: 31,
@@ -733,7 +733,7 @@ export const favorites_books_data = [
         rating: "5",
         price:21,
         type: "horror",
-        description: "Horror Comedy"
+        description: "A deliciously dark, elegant, utterly compulsive read—with a twist that blew my mind. I loved this even more than I loved The Silent Patient and that's saying something! From the #1 New York Times bestselling author of The Silent Patient comes a spellbinding tale of psychological suspense, weaving together Greek mythology, murder, and obsession, that further cements “Michaelides as a major player in the field” (Publishers Weekly)."
       },
       {
         id: 32,
@@ -745,7 +745,7 @@ export const favorites_books_data = [
         rating: "5",
         price:35,
         type: "horror",
-        description: "Horror Comedy"
+        description: "A deliciously dark, elegant, utterly compulsive read—with a twist that blew my mind. I loved this even more than I loved The Silent Patient and that's saying something! From the #1 New York Times bestselling author of The Silent Patient comes a spellbinding tale of psychological suspense, weaving together Greek mythology, murder, and obsession, that further cements “Michaelides as a major player in the field” (Publishers Weekly)."
       },
       {
         id: 33,
@@ -757,7 +757,7 @@ export const favorites_books_data = [
         rating: "3.8",
         price:12,
         type: "horror",
-        description: "Horror Comedy"
+        description: "A deliciously dark, elegant, utterly compulsive read—with a twist that blew my mind. I loved this even more than I loved The Silent Patient and that's saying something! From the #1 New York Times bestselling author of The Silent Patient comes a spellbinding tale of psychological suspense, weaving together Greek mythology, murder, and obsession, that further cements “Michaelides as a major player in the field” (Publishers Weekly)."
       },
       {
         id: 34,
@@ -769,7 +769,7 @@ export const favorites_books_data = [
         rating: "4",
         price:8,
         type: "horror",
-        description: "Horror Comedy"
+        description: "A deliciously dark, elegant, utterly compulsive read—with a twist that blew my mind. I loved this even more than I loved The Silent Patient and that's saying something! From the #1 New York Times bestselling author of The Silent Patient comes a spellbinding tale of psychological suspense, weaving together Greek mythology, murder, and obsession, that further cements “Michaelides as a major player in the field” (Publishers Weekly)."
       },
       {
         id: 35,
@@ -781,7 +781,7 @@ export const favorites_books_data = [
         rating: "4",
         price:6,
         type: "horror",
-        description: "Horror Comedy"
+        description: "A deliciously dark, elegant, utterly compulsive read—with a twist that blew my mind. I loved this even more than I loved The Silent Patient and that's saying something! From the #1 New York Times bestselling author of The Silent Patient comes a spellbinding tale of psychological suspense, weaving together Greek mythology, murder, and obsession, that further cements “Michaelides as a major player in the field” (Publishers Weekly)."
       },
       {
         id: 36,
@@ -793,7 +793,7 @@ export const favorites_books_data = [
         rating: "4",
         price:16,
         type: "horror",
-        description: "Horror Comedy"
+        description: "A deliciously dark, elegant, utterly compulsive read—with a twist that blew my mind. I loved this even more than I loved The Silent Patient and that's saying something! From the #1 New York Times bestselling author of The Silent Patient comes a spellbinding tale of psychological suspense, weaving together Greek mythology, murder, and obsession, that further cements “Michaelides as a major player in the field” (Publishers Weekly)."
       },
       {
         id: 37,
@@ -805,7 +805,7 @@ export const favorites_books_data = [
         rating: "4",
         price:20,
         type: "horror",
-        description: "Horror Comedy"
+        description: "A deliciously dark, elegant, utterly compulsive read—with a twist that blew my mind. I loved this even more than I loved The Silent Patient and that's saying something! From the #1 New York Times bestselling author of The Silent Patient comes a spellbinding tale of psychological suspense, weaving together Greek mythology, murder, and obsession, that further cements “Michaelides as a major player in the field” (Publishers Weekly)."
       },
       {
         id: 38,
@@ -817,7 +817,7 @@ export const favorites_books_data = [
         rating: "4",
         price:10,
         type: "horror",
-        description: "Horror Comedy"
+        description: "A deliciously dark, elegant, utterly compulsive read—with a twist that blew my mind. I loved this even more than I loved The Silent Patient and that's saying something! From the #1 New York Times bestselling author of The Silent Patient comes a spellbinding tale of psychological suspense, weaving together Greek mythology, murder, and obsession, that further cements “Michaelides as a major player in the field” (Publishers Weekly)."
       },
       {
         id: 39,
@@ -829,7 +829,7 @@ export const favorites_books_data = [
         rating: "4",
         price:30,
         type: "horror",
-        description: "Horror Comedy"
+        description: "A deliciously dark, elegant, utterly compulsive read—with a twist that blew my mind. I loved this even more than I loved The Silent Patient and that's saying something! From the #1 New York Times bestselling author of The Silent Patient comes a spellbinding tale of psychological suspense, weaving together Greek mythology, murder, and obsession, that further cements “Michaelides as a major player in the field” (Publishers Weekly)."
       },
       {
         id: 40,
@@ -841,6 +841,6 @@ export const favorites_books_data = [
         rating: "2",
         price:20,
         type: "horror",
-        description: "Horror Comedy"
+        description: "A deliciously dark, elegant, utterly compulsive read—with a twist that blew my mind. I loved this even more than I loved The Silent Patient and that's saying something! From the #1 New York Times bestselling author of The Silent Patient comes a spellbinding tale of psychological suspense, weaving together Greek mythology, murder, and obsession, that further cements “Michaelides as a major player in the field” (Publishers Weekly)."
       }
 ]

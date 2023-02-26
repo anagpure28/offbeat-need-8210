@@ -3,10 +3,10 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Star from "./Star";
-import { favorites_books_data } from "../Data/Books";
+import { fiction } from "../Data/Books";
 
-const FirstCarousel = () => {
-  const [BestSelling, setBestSelling] = useState([...favorites_books_data]);
+const ThirdCarousel = () => {
+  const [BestSelling, setBestSelling] = useState([...fiction]);
 
   console.log("data", BestSelling);
   function SampleNextArrow(props) {
@@ -73,7 +73,7 @@ const FirstCarousel = () => {
           <div>
             <div key={item.id} style={{margin:"auto", marginTop:"15%", width:"160px"}}>
             <img src={item.image} alt=""/>
-            <a href={"/products/"+item.id}
+            <a href="#"
               style={{ 
                 color: "black", 
                 fontSize: "12px", 
@@ -91,4 +91,4 @@ const FirstCarousel = () => {
   );
 };
 
-export default FirstCarousel;
+export default ThirdCarousel;

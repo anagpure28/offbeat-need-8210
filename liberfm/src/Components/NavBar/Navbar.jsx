@@ -8,7 +8,7 @@ const Navbar = () => {
 
     <div id="title-box" style={{paddingTop: "10px"}}>
       <div id="title" style={{}}>
-        <img src="LiberFM.png" style={{width:"50%",margin:"5px 150px"}} alt="logo" />
+        <a href="/"><img src="LiberFM.png" style={{width:"50%",margin:"5px 150px"}} alt="logo" /></a>
       </div>
       <div className="display">
         <input placeholder="Search" type="Search" style={{width:"400px", border:"0.1px solid black", borderRadius:"5px", padding: "5px", margin:"0 250px"}}/>

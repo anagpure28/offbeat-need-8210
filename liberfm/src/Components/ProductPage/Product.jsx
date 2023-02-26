@@ -6,6 +6,8 @@ import CarouselBelieve from '../HomePage/CarouselBelieve';
 import CarouselPaper from '../HomePage/CarouselPaper';
 import CarouselWorld from '../HomePage/CarouselWorld';
 import HoverContainer2 from '../HomePage/HoverContainer2';
+import SecondCarousel from './Carousel2';
+import ThirdCarousel from './Carousel3';
 
 const Product = () => {
   return (
@@ -44,9 +46,9 @@ const Product = () => {
             <CarouselBelieve />
           </div>
           <div className='div'>
-            <h3 className='h3'>Bestselling New Releases</h3>
+            <h3 className='h3'>Bestselling PaperBacks</h3>
             <a href="/allproducts" style={{fontSize:"14px", color:"blue", textDecoration: "underline"}}>See All</a>
-            <FirstCarousel />
+            <ThirdCarousel />
           </div>
           <div className='div'>
             <h3 className='h3'>New in Fiction</h3>
@@ -54,14 +56,14 @@ const Product = () => {
             <CarouselPaper />
           </div>
           <div className='div'>
-            <h3 className='h3'>Fiction Subjects</h3>
+            <h3 className='h3'>New Fantacy Releases</h3>
             <a href="/allproducts" style={{fontSize:"14px", color:"blue", textDecoration: "underline"}}>See All</a>
             <CarouselWorld />
           </div>
           <div className='div'>
-            <h3 className='h3'>Bestselling New Releases</h3>
+            <h3 className='h3'>Bestselling Fictions</h3>
             <a href="/allproducts" style={{fontSize:"14px", color:"blue", textDecoration: "underline"}}>See All</a>
-            <FirstCarousel />
+            <SecondCarousel />
             <br />
           </div>
         </div>
