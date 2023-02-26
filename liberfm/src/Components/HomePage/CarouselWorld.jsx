@@ -33,7 +33,7 @@ function SamplePrevArrow(props) {
     slidesToShow: 6,
     slidesToScroll: 1,
     initialSlide: 0,
-    speed: 2000,
+    speed: 1000,
     nextArrow: <SampleNextArrow />,
     prevArrow: <SamplePrevArrow />,
     responsive: [
@@ -70,7 +70,7 @@ function SamplePrevArrow(props) {
           <p style={{fontFamily:"Poynter,Georgia,serif", fontSize:"28px"}}><i>Out of This World Sci-Fi and Fantasy</i></p>
         </div>
         <div>
-          <Link style={{textDecoration: "underline"}}>See All</Link>
+          <Link to="/allproducts" style={{textDecoration: "underline"}}>See All</Link>
         </div>
       </div>
       <div style={{width:"80%", margin:"auto", marginTop:"20px"}}>

@@ -70,7 +70,7 @@ function SamplePrevArrow(props) {
           <p style={{fontFamily:"Poynter,Georgia,serif", fontSize:"28px"}}><i>B&N Top 100 Books</i></p>
         </div>
         <div>
-          <Link style={{textDecoration: "underline"}}>See All</Link>
+          <Link to="/allproducts" style={{textDecoration: "underline"}}>See All</Link>
         </div>
       </div>
       <div style={{width:"80%", margin:"auto", marginTop:"20px"}}>

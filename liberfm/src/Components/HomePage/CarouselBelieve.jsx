@@ -33,7 +33,7 @@ function SamplePrevArrow(props) {
     slidesToShow: 6,
     slidesToScroll: 1,
     initialSlide: 0,
-    speed: 2000,
+    speed: 1000,
     nextArrow: <SampleNextArrow />,
     prevArrow: <SamplePrevArrow />,
     responsive: [
@@ -70,7 +70,7 @@ function SamplePrevArrow(props) {
           <p style={{fontFamily:"Poynter,Georgia,serif", fontSize:"28px"}}><i>Believe in a Thing Called Love</i></p>
         </div>
         <div>
-          <Link style={{textDecoration: "underline"}}>Shop Romance</Link>
+          <Link to="/allproducts" style={{textDecoration: "underline"}}>Shop Romance</Link>
         </div>
       </div>
       <div style={{width:"80%", margin:"auto", marginTop:"20px"}}>

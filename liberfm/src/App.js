@@ -1,13 +1,14 @@
-import logo from './logo.svg';
 import './App.css';
-import Home from './Components/HomePage/Home';
-import Product from './Components/ProductPage/Product';
+import Navbar from './Components/NavBar/Navbar';
+import AllRoutes from './Components/Login/AllRoutes';
+import Footer from './Components/HomePage/Footer';
 
 function App() {
   return (
     <div className="App">
-      {/* <Home /> */}
-      <Product />
+      <Navbar />
+      <AllRoutes />
+      <Footer />
     </div>
   );
 }
