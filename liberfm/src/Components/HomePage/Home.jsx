@@ -15,7 +15,7 @@ const Home = () => {
   return (
     <div>
         <Box className='display' style={{height:"65px",backgroundColor:"#e6cacf",marginBottom:"5px"}}>
-          <Text className='p'>Up to 30% Off The Biggest Pre-Orders Coming Soon to a Shelf Near You</Text>
+          <Text style={{fontWeight:"500", fontSize:'20px'}}>Up to 30% Off The Biggest Pre-Orders Coming Soon to a Shelf Near You</Text>
         </Box>
         <Box className='display' style={{height:"45px",backgroundColor:"black",marginBottom:"5px"}}>
           <Text style={{color:"white",fontSize:"18px"}}>Free Shipping on Orders of $40 or More</Text>
@@ -41,9 +41,7 @@ const Home = () => {
         <Box className='display' style={{margin:"10px 0"}}>
           <Image src="https://dispatch.barnesandnoble.com/content/dam/ccr/homepage/daily/2023/02/21/26212_BB_D_Moomin_02-22.jpg" w={"90%"}/>
         </Box>
-        <Text style={{fontSize:"10px"}}>*See offer page for details</Text>
-        <Footer />
-
+        <a style={{fontSize:"10px"}}>*See offer page for details</a>
     </div>
   )
 }

@@ -31,7 +31,7 @@ function SamplePrevArrow(props) {
 
   var settings = {
     infinite: true,
-    speed: 2000,
+    speed: 1000,
     slidesToShow: 6,
     slidesToScroll: 6,
     initialSlide: 0,
@@ -71,7 +71,7 @@ function SamplePrevArrow(props) {
           <p style={{fontFamily:"Poynter,Georgia,serif", fontSize:"28px"}}><i>Our Favorite Reads Now in Paperback</i></p>
         </div>
         <div>
-          <Link style={{textDecoration: "underline"}}>See All</Link>
+          <Link to="/allproducts" style={{textDecoration: "underline"}}>See All</Link>
         </div>
       </div>
       <div style={{width:"80%", margin:"auto", marginTop:"20px"}}>

@@ -7,9 +7,7 @@ import { favorites_books_data } from "../Data/Books";
 
 const FirstCarousel = () => {
   const [BestSelling, setBestSelling] = useState([...favorites_books_data]);
-//   const [paperback, setPaperback] = useState([...Paperback]);
-//   const [Fiction, setFiction] = useState([...fiction]);
-//   const [Fic_sub, setFic_sub] = useState([...fiction_Subjects]);
+
   console.log("data", BestSelling);
   function SampleNextArrow(props) {
     const { className, style, onClick } = props;

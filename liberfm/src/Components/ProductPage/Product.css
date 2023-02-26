@@ -10,12 +10,8 @@
 .flex{
     display: flex;
 }
-.flex-div1{
-    width:18%; 
-    border-right: 1px solid grey;
-}
 .flex-div2{
-    width:78%;
+    width:90%;
     margin: auto;
 }
 .p{
